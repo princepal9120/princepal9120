@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Prince Pal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **Web Development,Competitive Programming**
+- 💬 Ask me about **Full stack Development,Competitive Programming**
 
 - 📫 How to reach me **princepal9120@gmail.com**
 
