@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/princerock88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="princerock88" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/prince9120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince9120" height="30" width="40" /></a>
-<a href="https://instagram.com/its_prince_.077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_prince_.077" height="30" width="40" /></a>
+
 <a href="https://www.codechef.com/users/prince77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prince77" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/princepal9120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="princepal9120" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/princerock88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="princerock88" height="30" width="40" /></a>
