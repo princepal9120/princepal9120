@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Prince Pal</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **GenAi** and **AgenticAi**
 
 - 💬 Ask me about **Full stack Development,Competitive Programming**
 
