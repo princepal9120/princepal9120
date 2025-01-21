@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://via.placeholder.com/1200x400.png?text=Developer+Working+with+AI" alt="header" width="100%" />
+<img src="https://img.freepik.com/premium-photo/program-designer-developer-ai-generative_199064-2134.jpg" alt="header" width="50%" height="50%"/>
 </p>
 
 
