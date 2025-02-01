@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=princepal9120&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
 <img src="https://img.freepik.com/premium-photo/program-designer-developer-ai-generative_199064-2134.jpg" alt="header" width="50%" height="50%"/>
 </p>
 
@@ -102,6 +106,4 @@ I’m always open to discussing new opportunities, collaborations, or just chatt
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=princepal9120&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
+
