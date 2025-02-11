@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=princepal9120&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
@@ -82,11 +83,29 @@ I love solving algorithmic challenges and participating in coding competitions. 
 
 ---
 
+
+
 ### 📈 GitHub Stats
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=princepal9120&theme=radical&no-frame=true&no-bg=true&margin-w=5)
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=princepal9120&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=princepal9120&theme=radical" alt="GitHub Streak" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princepal9120&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princepal9120&theme=radical" alt="GitHub Activity Graph" />
+  
+  <!-- Contribution Snake Animation -->
+  <img src="https://raw.githubusercontent.com/princepal9120/princepal9120/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
+
+
 
 ---
 
