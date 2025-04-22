@@ -76,7 +76,7 @@ Here are the tools and technologies I work with:
 ### 🏆 Competitive Programming
 I love solving algorithmic challenges and participating in coding competitions. Here are some of my achievements:
 - **Codeforces**: [princepal9120](https://codeforces.com/profile/princepal9120)
-- **CodeChef**: [prince77](https://www.codechef.com/users/prince77)
+- **CodeChef**: [prince77](https://www.codechef.com/users/princepal77)
 - **LeetCode**: [princerock88](https://leetcode.com/princerock88)
 - **GeeksforGeeks**: [princepal9120](https://auth.geeksforgeeks.org/user/princepal9120)
 
