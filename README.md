@@ -114,6 +114,15 @@ A curated list of my top AI and Full Stack projects showcasing end-to-end develo
 
 ---
 
+## 🤖Perception(Ai Agent Chatbot)
+Multi-step autonomous AI chatbot powered by LangGraph agents and Groq for ultra-fast inference.
+- **Stack**: LangGraph, LangChain, Groq, Streamlit, Python
+- **Features**: Real-time multi-step task handling, dynamic conversations
+🔗 [Live Demo](https://perplexity-20.vercel.app)  
+📦 [GitHub Repo](https://github.com/princepal9120/agent_chatbot)
+
+---
+
 ## 🧠 RAG-Chatbot
 A resume-aware chatbot built using Retrieval-Augmented Generation (RAG), LangChain, and Gemini API to deliver highly contextual and personalized responses.
 - **Stack**: Next.js, TypeScript, LangChain, Gemini API, AstraDB
@@ -161,15 +170,6 @@ Generates personalized outreach emails using LangChain and Gmail API based on si
 
 🔗 [Live Demo](https://email-generator-eta.vercel.app)  
 📦 [GitHub Repo](https://github.com/princepal9120/email-generator)
-
----
-
-## 🤖 AI Agent Chatbot
-Multi-step autonomous AI chatbot powered by LangGraph agents and Groq for ultra-fast inference.
-- **Stack**: LangGraph, LangChain, Groq, Streamlit, Python
-- **Features**: Real-time multi-step task handling, dynamic conversations
-
-📦 [GitHub Repo](https://github.com/princepal9120/agent_chatbot)
 
 ---
 
