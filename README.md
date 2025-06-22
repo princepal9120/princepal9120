@@ -28,11 +28,15 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 I’m currently exploring **Generative AI** and **Agentic AI** to build intelligent systems that solve real-world problems.
-- 💡 Passionate about combining **Full-Stack Development** with **AI** to create innovative solutions.
-- 💬 Ask me about **React, Node.js, MongoDB, or how to integrate AI into web applications**.
-- 📫 Reach me at **princepal9120@gmail.com** – Let’s collaborate on something amazing!
+## 👨‍💻 About Me
+
+- 🌱 Currently exploring **Generative AI**, **Agentic AI**, and growing into **AI Engineering** and **SDE** roles.  
+- 💡 Passionate about combining **Full-Stack Web** and **Mobile App Development** with **AI** to build intelligent, real-world solutions.  
+- 🛠️ Skilled in developing end-to-end applications using **React, React Native, Node.js, MongoDB**, and integrating AI models/APIs into products.  
+- 💬 Ask me about building production-grade apps, scalable backends, or adding LLM-powered features to web/mobile platforms.  
+- 👨‍🔧 Open to **freelance projects** – whether it’s a **mobile app** or a full-stack **web application**, I’d love to help bring your idea to life.  
+- 📫 Let’s connect: **princepal9120@gmail.com**
+
 
 ---
 
@@ -116,8 +120,9 @@ A curated list of my top AI and Full Stack projects showcasing end-to-end develo
 
 ## 🤖Perception(Ai Agent Chatbot)
 Multi-step autonomous AI chatbot powered by LangGraph agents and Groq for ultra-fast inference.
-- **Stack**: LangGraph, LangChain, Groq, Streamlit, Python
+- **Stack**: LangGraph, LangChain, Groq, Streamlit, Python, FastApi, React
 - **Features**: Real-time multi-step task handling, dynamic conversations
+  
 🔗 [Live Demo](https://perplexity-20.vercel.app)  
 📦 [GitHub Repo](https://github.com/princepal9120/agent_chatbot)
 
