@@ -99,7 +99,10 @@ I love solving algorithmic challenges and participating in coding competitions. 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=princepal9120&theme=radical" alt="GitHub Streak" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princepal9120&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=princepal9120&theme=calm&cache_seconds=86400" alt="Top Languages" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=princepal9120&theme=calm&cache_seconds=86400" alt="fav lang"/>
+
+
   
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=princepal9120&theme=radical" alt="GitHub Activity Graph" />
