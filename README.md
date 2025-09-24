@@ -1,126 +1,256 @@
+# 👋 Hi there, I'm Prince Pal
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=princepal9120&label=Profile%20Views&color=blue&style=flat" alt="Profile Views " />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=princepal9120&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/princepal9120?label=Followers&style=flat-square&color=0891b2" alt="Followers" />
+</div>
 
-<p align="center">
-<img src="https://img.freepik.com/premium-photo/program-designer-developer-ai-generative_199064-2134.jpg" alt="header" width="50%" height="50%"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0891b2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Engineering;Building+the+Future+with+Code" alt="Typing SVG" />
+</div>
 
+<br>
 
-<h1 align="center">Hi 👋, I'm Prince Pal</h1>
-<h3 align="center">A Full-Stack Developer Building the Future with AI 🤖</h3>
+<div align="center">
+  <img src="https://img.freepik.com/premium-photo/program-designer-developer-ai-generative_199064-2134.jpg" alt="Developer Banner" width="60%" style="border-radius: 15px;"/>
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/prince9120" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+<div align="center">
+  <a href="https://linkedin.com/in/prince9120" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/princerock88" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <a href="mailto:princepal9120@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://codeforces.com/profile/princepal9120" target="blank">
-    <img src="https://img.shields.io/badge/Codeforces-Compete-red?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <a href="https://leetcode.com/princerock88" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/prince77" target="blank">
-    <img src="https://img.shields.io/badge/CodeChef-Practice-brown?style=for-the-badge&logo=codechef" alt="CodeChef" />
+  <a href="https://codeforces.com/profile/princepal9120" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-</p>
+</div>
 
----
+<br>
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🌱 Currently exploring **Generative AI**, **Agentic AI**, and growing into **AI Engineering** and **SDE** roles.  
-- 💡 Passionate about combining **Full-Stack Web** and **Mobile App Development** with **AI** to build intelligent, real-world solutions.  
-- 🛠️ Skilled in developing end-to-end applications using **React, React Native, Node.js, MongoDB**, and integrating AI models/APIs into products.  
-- 💬 Ask me about building production-grade apps, scalable backends, or adding LLM-powered features to web/mobile platforms.  
-- 👨‍🔧 Open to **freelance projects** – whether it’s a **mobile app** or a full-stack **web application**, I’d love to help bring your idea to life.  
-- 📫 Let’s connect: **princepal9120@gmail.com**
+```javascript
+const prince = {
+    pronouns: "He/Him",
+    location: "India 🇮🇳",
+    currentFocus: ["Generative AI", "Agentic AI", "Full-Stack Development"],
+    goals: ["AI Engineering", "Software Development Engineer"],
+    openToWork: true,
+    freelance: "Available for projects",
+    
+    dailyRoutine: {
+        code: "Always",
+        learn: "Continuously",
+        solve: "Problems",
+        build: "Amazing things"
+    },
+    
+    askMeAbout: [
+        "Full-Stack Web Development",
+        "Mobile App Development", 
+        "AI Integration",
+        "System Design",
+        "Competitive Programming"
+    ]
+};
+```
 
+<br>
 
----
+## 🛠️ Tech Arsenal
 
-### 🛠️ Tech Stack
-Here are the tools and technologies I work with:
+<details>
+<summary><b>💻 Programming Languages</b></summary>
+<br>
 
-#### **Frontend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>🎨 Frontend Technologies</b></summary>
+<br>
+
+**Frameworks & Libraries:**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white)
+
+**Styling & UI:**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**State Management & Data:**
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
+</details>
 
-#### **Backend**
+<details>
+<summary><b>⚡ Backend Technologies</b></summary>
+<br>
+
+**Server & APIs:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-#### **AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Databases & ORMs:**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+
+**Backend Services:**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br>
+
+**Core ML Libraries:**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+**Generative AI & LLMs:**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llamaindex&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=ai&logoColor=white)
 
-#### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Vector Databases:**
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FFA500?style=for-the-badge&logo=chromadb&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00D4AA?style=for-the-badge&logo=weaviate&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
+**Cloud Platforms:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+**Containerization & Orchestration:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+</details>
+
+<details>
+<summary><b>🛠️ Development Tools</b></summary>
+<br>
+
+**IDEs & Editors:**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Version Control & API Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+
+
+</details>
+
+<br>
+
+## 🏆 Competitive Programming Journey
+
+<div align="center">
+
+| Platform | Profile | Status |
+|----------|---------|---------|
+| 🔥 **Codeforces** | [@princepal9120](https://codeforces.com/profile/princepal9120) | Active |
+| 🍴 **CodeChef** | [@prince77](https://www.codechef.com/users/prince77) | Active |
+| 💻 **LeetCode** | [@princerock88](https://leetcode.com/princerock88) | 500+ Problems Solved |
+| 🚀 **GeeksforGeeks** | [@princepal9120](https://auth.geeksforgeeks.org/user/princepal9120) | Active |
+
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=princepal9120&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princepal9120&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princepal9120&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</div>
+
+<br>
+
+## 🏅 Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=princepal9120&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+<br>
+
+## 💼 What I'm Working On
+
+- 🔭 **Current Project**: Building AI-powered full-stack applications
+- 🌱 **Learning**: Advanced AI/ML concepts and system design patterns  
+- 👯 **Looking to collaborate on**: Open source projects, AI tools, and innovative web apps
+- 💬 **Ask me about**: React, Node.js, AI integration, or anything tech-related!
+- ⚡ **Fun fact**: I debug with console.log more than I care to admit 😅
+
+
 
 ---
 
-### 🏆 Competitive Programming
-I love solving algorithmic challenges and participating in coding competitions. Here are some of my achievements:
-- **Codeforces**: [princepal9120](https://codeforces.com/profile/princepal9120)
-- **CodeChef**: [prince77](https://www.codechef.com/users/princepal77)
-- **LeetCode**: [princerock88](https://leetcode.com/princerock88)
-- **GeeksforGeeks**: [princepal9120](https://auth.geeksforgeeks.org/user/princepal9120)
-
----
-
-
-
-### 📈 GitHub Stats
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=princepal9120&theme=radical&no-frame=true&no-bg=true&margin-w=5)
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=princepal9120&show_icons=true&theme=radical" alt="GitHub Stats" />
+<div align="center">
+  <h3>💫 "Code is poetry written in logic" 💫</h3>
   
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princepal9120&theme=radical" alt="GitHub Streak" />
+  **Available for freelance work • Open to full-time opportunities**
   
-  <!-- Most Used Languages -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=princepal9120&theme=calm&cache_seconds=86400" alt="Top Languages" />
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=princepal9120&theme=calm&cache_seconds=86400" alt="fav lang"/>
-
-
+  <a href="https://linkedin.com/in/prince9120">
+    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect" />
+  </a>
   
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princepal9120&theme=radical" alt="GitHub Activity Graph" />
+  <br><br>
   
-  <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/princepal9120/princepal9120/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-
-
-
----
-
-### 📫 Let's Connect!
-I’m always open to discussing new opportunities, collaborations, or just chatting about tech. Feel free to reach out:
-- **LinkedIn**: [prince9120](https://linkedin.com/in/prince9120)
-- **Email**: princepal9120@gmail.com
-
----
-
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" alt="Wave Footer"/>
+</div>
