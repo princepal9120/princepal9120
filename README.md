@@ -36,27 +36,25 @@
 
 ```javascript
 const prince = {
-    pronouns: "He/Him",
-    location: "India 🇮🇳",
-    currentFocus: ["Generative AI", "Agentic AI", "Full-Stack Development"],
-    goals: ["AI Engineering", "Software Development Engineer"],
-    openToWork: true,
-    freelance: "Available for projects",
-    
-    dailyRoutine: {
-        code: "Always",
-        learn: "Continuously",
-        solve: "Problems",
-        build: "Amazing things"
-    },
-    
-    askMeAbout: [
-        "Full-Stack Web Development",
-        "Mobile App Development", 
-        "AI Integration",
-        "System Design",
-        "Competitive Programming"
-    ]
+  pronouns: "He/Him",
+  location: "India 🇮🇳",
+  currentFocus: ["Generative AI", "Agentic AI", "Full-Stack Development"],
+  goals: ["AI Engineering", "Software Development Engineer"],
+  openToWork: true,
+  freelance: "Available for projects",
+  dailyRoutine: {
+    code: "Always",
+    learn: "Continuously",
+    solve: "Problems",
+    build: "Amazing things"
+  },
+  askMeAbout: [
+    "Full-Stack Web Development",
+    "Mobile App Development",
+    "AI Integration",
+    "System Design",
+    "Competitive Programming"
+  ]
 };
 ```
 
@@ -84,18 +82,21 @@ const prince = {
 <br>
 
 **Frameworks & Libraries:**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white)
 
 **Styling & UI:**
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 **State Management & Data:**
+
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
@@ -107,14 +108,16 @@ const prince = {
 <br>
 
 **Server & APIs:**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Go GIN](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Go GIN](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 **Databases & ORMs:**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -123,6 +126,7 @@ const prince = {
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
 **Backend Services:**
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
@@ -133,6 +137,7 @@ const prince = {
 <br>
 
 **Core ML Libraries:**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -140,6 +145,7 @@ const prince = {
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 **Generative AI & LLMs:**
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -148,6 +154,7 @@ const prince = {
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=ai&logoColor=white)
 
 **Vector Databases:**
+
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FFA500?style=for-the-badge&logo=chromadb&logoColor=white)
@@ -160,6 +167,7 @@ const prince = {
 <br>
 
 **Cloud Platforms:**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -167,9 +175,9 @@ const prince = {
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 **Containerization & Orchestration:**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
 
 </details>
 
@@ -178,17 +186,17 @@ const prince = {
 <br>
 
 **IDEs & Editors:**
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Version Control & API Tools:**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-
 
 </details>
 
@@ -209,51 +217,31 @@ const prince = {
 
 <br>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=princepal9120&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princepal9120&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princepal9120&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
-
-<br>
-
-## 🏅 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=princepal9120&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
 
 <br>
 
 ## 💼 What I'm Working On
 
 - 🔭 **Current Project**: Building AI-powered full-stack applications
-- 🌱 **Learning**: Advanced AI/ML concepts and system design patterns  
+- 🌱 **Learning**: Advanced AI/ML concepts and system design patterns
 - 👯 **Looking to collaborate on**: Open source projects, AI tools, and innovative web apps
 - 💬 **Ask me about**: React, Node.js, AI integration, or anything tech-related!
 - ⚡ **Fun fact**: I debug with console.log more than I care to admit 😅
 
-
-
 ---
 
 <div align="center">
-  <h3>💫 "Code is poetry written in logic" 💫</h3>
   
-  **Available for freelance work • Open to full-time opportunities**
-  
-  <a href="https://linkedin.com/in/prince9120">
-    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect" />
-  </a>
-  
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" alt="Wave Footer"/>
+### 💫 "Code is poetry written in logic" 💫
+
+**Available for freelance work • Open to full-time opportunities**
+
+<a href="https://linkedin.com/in/prince9120">
+  <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" alt="Wave Footer"/>
+
 </div>
