@@ -73,24 +73,24 @@ Frictionless digital product monetization with instant USDC payouts and zero che
 ## 🤖 AI / ML Engineering
 
 - **[TestGen](https://github.com/princepal9120/testgen)** – AI-powered multi-language test generation CLI with interactive TUI with Golang
-- **[DataInsight – SQL AI Agent](https://github.com/princepal9120/datainsight)** – Natural-language → SQL full-stack AI agent
-- **[RAG-Powered News Chatbot](https://github.com/princepal9120/rag-news)** – Real-time news assistant using RAG
+- **[DataInsight – SQL AI Agent](https://github.com/princepal9120/sql_agent)** – Natural-language → SQL full-stack AI agent
+- **[RAG-Powered News Chatbot](https://github.com/princepal9120/newsy-ai-talk)** – Real-time news assistant using RAG
 - **[TravelAgent AI](https://github.com/princepal9120/travelagent)** – Multi-agent research & automation workflows
 - **[LinkedIn Post Generator](https://github.com/princepal9120/linkedin-gen)** – Style-aware AI content generator
-- **[NarutoAI](https://github.com/princepal9120/naruto-ai)** – NLP & LLM-based TV series analysis
+- **[NarutoAI](https://github.com/princepal9120/narutoai)** – NLP & LLM-based TV series analysis
 - **[Aniverse](https://github.com/princepal9120/aniverse)** – AI-powered anime recommendation system
-- **[RAG-Chatbot](https://github.com/princepal9120/rag-chatbot)** – Resume-aware contextual chatbot
-- **[Gemini Live Clone – Dora AI](https://github.com/princepal9120/dora-ai)** - Real-time AI assistant with streaming responses, low-latency interactions
+- **[RAG-Chatbot](https://github.com/princepal9120/PersonalizedChatbot)** – Resume-aware contextual chatbot
+- **[Gemini Live Clone – Dora AI](https://github.com/princepal9120/ai-learning)** - Real-time AI assistant with streaming responses, low-latency interactions
 - **[Voice Agent AI](https://github.com/princepal9120/voice-agent)** -End-to-end voice assistant with speech-to-text, LLM reasoning, and real-time Q&A.
 
 ---
 
 ## 🧠 Full-Stack Engineering
 
-- **[RepurposeHub AI](https://github.com/princepal9120/repurposehub)** – Scalable ecommerce platform with microservices
-- **[Microservices Ecommerce](https://github.com/princepal9120/microservices-ecom)** – Distributed system using gRPC & GraphQL
+- **[RepurposeHub AI](https://github.com/princepal9120/repurposehubai)** – Scalable ecommerce platform with microservices
+- **[Microservices Ecommerce](https://github.com/princepal9120/golang-grpc-graphql-microservices)** – Distributed system using gRPC & GraphQL
 - **[Learnify](https://github.com/princepal9120/learnify)** – LMS platform with role-based access
-- **[JobConnect Portal](https://github.com/princepal9120/jobconnect)** – Job marketplace with real-time analytics
+- **[JobConnect Portal](https://github.com/princepal9120/TalentBridge)** – Job marketplace with real-time analytics
 - **[EcoQuest](https://github.com/princepal9120/ecoquest)** – AI-driven waste reporting system
 - **[Notes API](https://github.com/princepal9120/notes-api)** – Production-ready REST API
 
@@ -107,14 +107,14 @@ Frictionless digital product monetization with instant USDC payouts and zero che
 
 - **[Solana Copilot AI](https://github.com/princepal9120/solana-copilot)** – AI financial advisor on Solana
 - **[SolBallot](https://github.com/princepal9120/solballot)** – Decentralized voting protocol
-- **[CrowdSolFunding](https://github.com/princepal9120/crowdsolfunding)** – Web3 crowdfunding platform
+- **[CrowdSolFunding](https://github.com/princepal9120/crowdsolfund)** – Web3 crowdfunding platform
 
 ---
 
 ## 🛠 Developer Tools & Infrastructure
 
 - **[devrunner](https://github.com/princepal9120/devrunner)** – Universal task runner for any project
-- **[Web Data → LLM Pipeline](https://github.com/princepal9120/web-llm-pipeline)** – Scraping → fine-tuning → inference pipeline
+- **[Web Data → LLM Pipeline](https://github.com/princepal9120/ai-learning)** – Scraping → fine-tuning → inference pipeline
 
 ---
 
