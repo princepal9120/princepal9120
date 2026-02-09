@@ -43,12 +43,6 @@
 I build **AI-first production systems** — from backend APIs and RAG pipelines to real-time agents and scalable full-stack apps.  
 Experienced in taking ideas from **prototype → production** with real users.
 
-**Highlights**
-- AI Agents, RAG systems, and LLM pipelines in production
-- 25+ production projects shipped
-- 1000+ Dsa problems solved across platforms
-- Strong backend + systems design mindset
-
 ---
 
 ## 🔥 Featured Production Projects
@@ -66,7 +60,7 @@ Security scanner for GitHub repos and live apps with plain-English vulnerability
 Agentic chatbot using LangGraph to execute multi-step tasks with memory, tools, and reasoning.
 
 💸 **[Blinkgate](https://blinkgate.vercel.app)**  
-Frictionless digital product monetization with instant USDC payouts and zero checkout.
+Frictionless digital product monetisation with instant USDC payouts and zero checkout.
 
 ---
 
