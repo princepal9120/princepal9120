@@ -30,11 +30,16 @@ I build AI products, backend systems, and full stack apps with a focus on agents
 
 ## Tech stack
 
-**Languages:** Python, TypeScript, JavaScript, Go, Rust, C++, SQL  
-**Frontend:** React, Next.js, React Native, Tailwind CSS  
-**Backend:** FastAPI, Node.js, NestJS, GraphQL, gRPC  
-**AI:** LangChain, LangGraph, OpenAI, Gemini, CrewAI, PyTorch, RAG, agents  
-**Data:** PostgreSQL, MongoDB, Redis, Supabase, Pinecone, Qdrant  
+**Languages:** Python, TypeScript, JavaScript, Go, Rust, C++, SQL
+
+**Frontend:** React, Next.js, React Native, Tailwind CSS
+
+**Backend:** FastAPI, Node.js, NestJS, GraphQL, gRPC
+
+**AI:** LangChain, LangGraph, OpenAI, Gemini, CrewAI, PyTorch, RAG, agents
+
+**Data:** PostgreSQL, MongoDB, Redis, Supabase, Pinecone, Qdrant
+
 **Infra:** Docker, Kubernetes, AWS, GCP
 
 ## AI and ML work
