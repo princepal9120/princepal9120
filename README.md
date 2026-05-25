@@ -27,6 +27,8 @@ I build AI products, backend systems, and full stack apps with a focus on agents
 - **[Perception](https://perception.princepal.dev)**: Live web search agent built with FastAPI, React, LangGraph, LangChain, and memory.
 - **[TestGen](https://testgen-cli.vercel.app)**: AI powered test generation engine for developers, CLIs, and coding agents.
 - **[DataInsight SQL Agent](https://github.com/princepal9120/sql_agent)**: Natural language to SQL agent for faster data exploration.
+- **[DevRunner](https://github.com/princepal9120/devrunner)**: One command, zero configuration Rust-powered task runner.
+- **[Awesome Solo Founder OSS](https://github.com/princepal9120/awesome-solo-founder-oss)**: Curated list of open-source stack and tools for solo founders.
 
 ## Tech stack
 
@@ -47,6 +49,10 @@ I build AI products, backend systems, and full stack apps with a focus on agents
 - **[AI Learning](https://github.com/princepal9120/ai-learning)**: Notes, notebooks, and projects across AI, ML, DL, GenAI, and agentic systems.
 - **[RAG News Chatbot](https://github.com/princepal9120/newsy-ai-talk)**: News assistant with ingestion, embeddings, semantic search, and Gemini responses.
 - **[NarutoAI](https://github.com/princepal9120/Narutoai)**: NLP and LLM based analysis of Naruto episodes, characters, and story data.
+
+## Open source contributions
+
+- **[Warp](https://github.com/warpdotdev/warp)**: Contributed terminal enhancements (detecting file links in output, network log usability) to the Rust-based terminal.
 
 ## Competitive programming
 
