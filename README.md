@@ -52,7 +52,11 @@ I build AI products, backend systems, and full stack apps with a focus on agents
 
 ## Open source contributions
 
-- **[Warp](https://github.com/warpdotdev/warp)**: Contributed terminal enhancements (detecting file links in output, network log usability) to the Rust-based terminal.
+- **[Multica](https://github.com/multica-ai/multica)**: AI agent framework. Contributed features and fixes related to sub-agent lifecycles, daemon tasks, agent configuration, and environment variables.
+- **[Dify](https://github.com/langgenius/dify)**: LLM app development platform. Contributed to document indexing, dataset metadata filters, and file upload handling.
+- **[Warp](https://github.com/warpdotdev/warp)**: Modern Rust-based terminal. Contributed terminal enhancements (detecting file links in output, network log usability).
+- **[Bifrost](https://github.com/MaximHQ/bifrost)**: Middleware/proxy for AI APIs. Contributed fixes to tool schema handling, client-side tool definitions, and request rewrites.
+
 
 ## Competitive programming
 
