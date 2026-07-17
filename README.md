@@ -12,27 +12,16 @@ I build AI products, backend systems, and full stack apps with a focus on agents
 
 </div>
 
-## About me
+## Building
 
-- Building production AI systems with agents, RAG, tools, memory, and workflows.
-- Strong backend focus with Python, FastAPI, Node.js, databases, queues, and cloud.
-- Comfortable shipping full stack products with Next.js, TypeScript, auth, APIs, and clean UI.
-- Competitive programmer with 800+ LeetCode problems solved.
-
-## Featured projects
-
-- **[computer-use-sdk](https://github.com/princepal9120/computer-use-sdk)**: One TypeScript SDK for computer-use: Local, Browserbase, Browser Use, CUA, Firecrawl. Plug providers in and out.
-- **[startup-find](https://github.com/princepal9120/startup-find)**: Local-first, agent-friendly CLI for YC + a16z startup data. No API key, no rate limits.
-- **[tkt-cli](https://github.com/princepal9120/tkt-cli)**: TikTok trend discovery CLI built for terminal-first content research.
-- **[ig-cli](https://github.com/princepal9120/ig-cli)**: Instagram growth CLI for trend and growth intelligence from the terminal.
-- **[AgentDesk](https://github.com/princepal9120/agentdesk)**: Open source white label AI voice agent platform for deploying AI receptionists.
-- **[VibeStack](https://vibestack.princepal.dev)**: Hub for AI coding tools, agent workflows, guides, skills, and developer resources.
-- **[VibeAudit](https://vibeaudit.site)**: Security scanner for GitHub repos and live apps with plain English vulnerability reports.
-- **[Perception](https://perception.princepal.dev)**: Live web search agent built with FastAPI, React, LangGraph, LangChain, and memory.
-- **[TestGen](https://testgen-cli.vercel.app)**: AI powered test generation engine for developers, CLIs, and coding agents.
-- **[DataInsight SQL Agent](https://github.com/princepal9120/sql_agent)**: Natural language to SQL agent for faster data exploration.
-- **[DevRunner](https://github.com/princepal9120/devrunner)**: One command, zero configuration Rust-powered task runner.
-- **[Awesome Solo Founder OSS](https://github.com/princepal9120/awesome-solo-founder-oss)**: Curated list of open-source stack and tools for solo founders.
+- **[awesome-solo-founder-oss](https://github.com/princepal9120/awesome-solo-founder-oss)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/awesome-solo-founder-oss?style=flat&color=gold)](https://github.com/princepal9120/awesome-solo-founder-oss) — Curated OSS stack for solo founders to build, launch, sell, support, and grow polished products.
+- **[devrunner](https://github.com/princepal9120/devrunner)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/devrunner?style=flat&color=gold)](https://github.com/princepal9120/devrunner) — One command, any project, zero configuration.
+- **[testgen](https://github.com/princepal9120/testgen)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/testgen?style=flat&color=gold)](https://github.com/princepal9120/testgen) — One test engine for people, CLI, and coding agents.
+- **[computer-use-sdk](https://github.com/princepal9120/computer-use-sdk)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/computer-use-sdk?style=flat&color=gold)](https://github.com/princepal9120/computer-use-sdk) — One TypeScript SDK for computer-use: Local, Browserbase, Browser Use, CUA, Firecrawl. Plug providers in and out.
+- **[startup-find](https://github.com/princepal9120/startup-find)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/startup-find?style=flat&color=gold)](https://github.com/princepal9120/startup-find) — Local-first, agent-friendly CLI for YC + a16z startup data.
+- **[tkt-cli](https://github.com/princepal9120/tkt-cli)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/tkt-cli?style=flat&color=gold)](https://github.com/princepal9120/tkt-cli) — TikTok trend discovery CLI built for terminal-first content research.
+- **[ig-cli](https://github.com/princepal9120/ig-cli)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/ig-cli?style=flat&color=gold)](https://github.com/princepal9120/ig-cli) — Instagram growth CLI for trend and growth intelligence from the terminal.
+- **[agentdesk](https://github.com/princepal9120/agentdesk)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/agentdesk?style=flat&color=gold)](https://github.com/princepal9120/agentdesk) — Open-source white-label AI voice agent platform.
 
 ## Tech stack
 
@@ -48,25 +37,12 @@ I build AI products, backend systems, and full stack apps with a focus on agents
 
 **Infra:** Docker, Kubernetes, AWS, GCP
 
-## AI and ML work
+## Contributing to
 
-- **[AI Learning](https://github.com/princepal9120/ai-learning)**: Notes, notebooks, and projects across AI, ML, DL, GenAI, and agentic systems.
-- **[RAG News Chatbot](https://github.com/princepal9120/newsy-ai-talk)**: News assistant with ingestion, embeddings, semantic search, and Gemini responses.
-- **[NarutoAI](https://github.com/princepal9120/Narutoai)**: NLP and LLM based analysis of Naruto episodes, characters, and story data.
-
-## Open source contributions
-
-- **[Multica](https://github.com/multica-ai/multica)**: AI agent framework. Contributed features and fixes related to sub-agent lifecycles, daemon tasks, agent configuration, and environment variables.
-- **[Dify](https://github.com/langgenius/dify)**: LLM app development platform. Contributed to document indexing, dataset metadata filters, and file upload handling.
-- **[Warp](https://github.com/warpdotdev/warp)**: Modern Rust-based terminal. Contributed terminal enhancements (detecting file links in output, network log usability).
-- **[Bifrost](https://github.com/MaximHQ/bifrost)**: Middleware/proxy for AI APIs. Contributed fixes to tool schema handling, client-side tool definitions, and request rewrites.
-
-
-## Competitive programming
-
-- **[LeetCode](https://leetcode.com/princerock88):** 800+ problems solved
-- **[Codeforces](https://codeforces.com/profile/princepal9120):** Pupil
-- **[CodeChef](https://www.codechef.com/users/prince77):** 4 star
+- **[Multica](https://github.com/multica-ai/multica)** — AI agent framework. Sub-agent lifecycles, daemon tasks, agent configuration.
+- **[Dify](https://github.com/langgenius/dify)** — LLM app development platform. Document indexing, dataset metadata filters.
+- **[Warp](https://github.com/warpdotdev/warp)** — Modern Rust-based terminal. Terminal enhancements.
+- **[Bifrost](https://github.com/MaximHQ/bifrost)** — Middleware/proxy for AI APIs. Tool schema handling, request rewrites.
 
 ## Open to
 
