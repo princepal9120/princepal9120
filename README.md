@@ -21,6 +21,10 @@ I build AI products, backend systems, and full stack apps with a focus on agents
 
 ## Featured projects
 
+- **[computer-use-sdk](https://github.com/princepal9120/computer-use-sdk)**: One TypeScript SDK for computer-use: Local, Browserbase, Browser Use, CUA, Firecrawl. Plug providers in and out.
+- **[startup-find](https://github.com/princepal9120/startup-find)**: Local-first, agent-friendly CLI for YC + a16z startup data. No API key, no rate limits.
+- **[tkt-cli](https://github.com/princepal9120/tkt-cli)**: TikTok trend discovery CLI built for terminal-first content research.
+- **[ig-cli](https://github.com/princepal9120/ig-cli)**: Instagram growth CLI for trend and growth intelligence from the terminal.
 - **[AgentDesk](https://github.com/princepal9120/agentdesk)**: Open source white label AI voice agent platform for deploying AI receptionists.
 - **[VibeStack](https://vibestack.princepal.dev)**: Hub for AI coding tools, agent workflows, guides, skills, and developer resources.
 - **[VibeAudit](https://vibeaudit.site)**: Security scanner for GitHub repos and live apps with plain English vulnerability reports.
