@@ -22,6 +22,9 @@ I build AI products, backend systems, and full stack apps with a focus on agents
 - **[tkt-cli](https://github.com/princepal9120/tkt-cli)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/tkt-cli?style=flat&color=gold)](https://github.com/princepal9120/tkt-cli) — TikTok trend discovery CLI for terminal-first content research.
 - **[ig-cli](https://github.com/princepal9120/ig-cli)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/ig-cli?style=flat&color=gold)](https://github.com/princepal9120/ig-cli) — Instagram growth CLI for trend intelligence from the terminal.
 - **[agentdesk](https://github.com/princepal9120/agentdesk)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/agentdesk?style=flat&color=gold)](https://github.com/princepal9120/agentdesk) — Open-source white-label AI voice agent platform.
+- **[MacPulse](https://github.com/princepal9120/MacPulse)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/MacPulse?style=flat&color=gold)](https://github.com/princepal9120/MacPulse) — Native macOS system utility: deep cleanup, uninstaller, disk analyzer, duplicates, live monitoring. MIT.
+- **[shiba](https://github.com/princepal9120/shiba)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/shiba?style=flat&color=gold)](https://github.com/princepal9120/shiba) — Self-hosted AI software engineer on Cloudflare.
+- **[iconscan](https://github.com/princepal9120/iconscan)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/iconscan?style=flat&color=gold)](https://github.com/princepal9120/iconscan) — Deterministic icon audits for React/Next.js/TS apps. Score, dead icons, better alternatives. Terminal, CI, and AI agents.
 
 ## Contributing to
 
