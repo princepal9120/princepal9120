@@ -17,15 +17,6 @@ I build AI infrastructure, backend systems, and full stack apps with a focus on 
 - **[OpenPub](https://openpub.princslabs.workers.dev)** — Self-hosted write-once-publish-everywhere engine on Cloudflare. MCP server + REST API ships one markdown post to 8 platforms.
 - **[Shiba](https://tryshiba.dev/)** — Self-hosted AI software engineer on Cloudflare. Assign tasks, get pull requests.
 
-## Open source
-
-- **[opentoolsorg/testgen](https://github.com/opentoolsorg/testgen)** — One test engine for people, CLI, and coding agents.
-- **[opentoolsorg/awesome-solo-founder-oss](https://github.com/opentoolsorg/awesome-solo-founder-oss)** — Curated OSS stack for solo founders.
-- **[opentoolsorg/voicedesk](https://github.com/opentoolsorg/voicedesk)** — Open-source white-label AI voice agent platform.
-- **[opentoolsorg/MacPulse](https://github.com/opentoolsorg/MacPulse)** — Native macOS system utility. MIT.
-- **[opentoolsorg/iconscan](https://github.com/opentoolsorg/iconscan)** — Deterministic icon audits for React/Next.js/TS apps.
-- **[opentoolsorg/startup-find](https://github.com/opentoolsorg/startup-find)** — Local-first, agent-friendly CLI for YC + a16z startup data.
-
 ## Tech stack
 
 **Languages:** Python, TypeScript, JavaScript, Go, Rust, C++, SQL
