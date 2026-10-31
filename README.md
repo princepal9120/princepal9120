@@ -2,9 +2,9 @@
 
 # Hi, I'm Prince Pal 👋
 
-### Full Stack AI Engineer | Backend Systems | Product Builder
+### AI Platform Engineer | Agent Infra | Product Builder
 
-I build AI products, backend systems, and full stack apps with a focus on agents, RAG, automation, and clean product execution.
+I build AI infrastructure, backend systems, and full stack apps with a focus on agents, eval, RAG, automation, and clean product execution.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-princepal9120-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/princepal9120)
 [![Email](https://img.shields.io/badge/Email-princepal9120@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princepal9120@gmail.com)
@@ -12,40 +12,33 @@ I build AI products, backend systems, and full stack apps with a focus on agents
 
 </div>
 
-## Building
+## Currently building
 
-- **[awesome-solo-founder-oss](https://github.com/princepal9120/awesome-solo-founder-oss)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/awesome-solo-founder-oss?style=flat&color=gold)](https://github.com/princepal9120/awesome-solo-founder-oss) — Curated OSS stack for solo founders to build, launch, sell, support, and grow polished products.
-- **[agentdesk](https://github.com/princepal9120/agentdesk)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/agentdesk?style=flat&color=gold)](https://github.com/princepal9120/agentdesk) — Open-source white-label AI voice agent platform.
-- **[shiba](https://github.com/princepal9120/shiba)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/shiba?style=flat&color=gold)](https://github.com/princepal9120/shiba) — Self-hosted AI software engineer on Cloudflare.
-- **[MacPulse](https://github.com/princepal9120/MacPulse)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/MacPulse?style=flat&color=gold)](https://github.com/princepal9120/MacPulse) — Native macOS system utility: deep cleanup, uninstaller, disk analyzer, duplicates, live monitoring. MIT.
-- **[iconscan](https://github.com/princepal9120/iconscan)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/iconscan?style=flat&color=gold)](https://github.com/princepal9120/iconscan) — Deterministic icon audits for React/Next.js/TS apps. Score, dead icons, better alternatives. Terminal, CI, and AI agents.
-- **[computer-use-sdk](https://github.com/princepal9120/computer-use-sdk)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/computer-use-sdk?style=flat&color=gold)](https://github.com/princepal9120/computer-use-sdk) — One TypeScript SDK for computer-use: Local, Browserbase, Browser Use, CUA, Firecrawl.
-- **[startup-find](https://github.com/princepal9120/startup-find)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/startup-find?style=flat&color=gold)](https://github.com/princepal9120/startup-find) — Local-first, agent-friendly CLI for YC + a16z startup data.
-- **[tkt-cli](https://github.com/princepal9120/tkt-cli)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/tkt-cli?style=flat&color=gold)](https://github.com/princepal9120/tkt-cli) — TikTok trend discovery CLI for terminal-first content research.
-- **[testgen](https://github.com/princepal9120/testgen)** [![GitHub stars](https://img.shields.io/github/stars/princepal9120/testgen?style=flat&color=gold)](https://github.com/princepal9120/testgen) — One test engine for people, CLI, and coding agents.
+- **[OpenPub](https://openpub.princslabs.workers.dev)** — Self-hosted write-once-publish-everywhere engine on Cloudflare. MCP server + REST API ships one markdown post to 8 platforms.
+- **[Shiba](https://tryshiba.dev/)** — Self-hosted AI software engineer on Cloudflare. Assign tasks, get pull requests.
+- **[JobClaw](https://github.com/princepal9120/jobclaw)** — Automated job sourcing and outreach CLI for developers.
 
+## Open source
 
-## Contributing to
-
-- **[dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat&color=gold)](https://github.com/langgenius/dify) — LLM app development platform.
-- **[warp](https://github.com/warpdotdev/warp)** [![GitHub stars](https://img.shields.io/github/stars/warpdotdev/warp?style=flat&color=gold)](https://github.com/warpdotdev/warp) — Modern Rust-based terminal.
-- **[bifrost](https://github.com/MaximHQ/bifrost)** [![GitHub stars](https://img.shields.io/github/stars/MaximHQ/bifrost?style=flat&color=gold)](https://github.com/MaximHQ/bifrost) — Fastest enterprise AI gateway.
-- **[multica](https://github.com/multica-ai/multica)** [![GitHub stars](https://img.shields.io/github/stars/multica-ai/multica?style=flat&color=gold)](https://github.com/multica-ai/multica) — Open-source managed agents platform.
+- **[opentoolsorg/testgen](https://github.com/opentoolsorg/testgen)** — One test engine for people, CLI, and coding agents.
+- **[opentoolsorg/awesome-solo-founder-oss](https://github.com/opentoolsorg/awesome-solo-founder-oss)** — Curated OSS stack for solo founders.
+- **[princepal9120/agentdesk](https://github.com/princepal9120/agentdesk)** — Open-source white-label AI voice agent platform.
+- **[princepal9120/MacPulse](https://github.com/princepal9120/MacPulse)** — Native macOS system utility. MIT.
+- **[princepal9120/iconscan](https://github.com/princepal9120/iconscan)** — Deterministic icon audits for React/Next.js/TS apps.
+- **[princepal9120/startup-find](https://github.com/princepal9120/startup-find)** — Local-first, agent-friendly CLI for YC + a16z startup data.
 
 ## Tech stack
 
 **Languages:** Python, TypeScript, JavaScript, Go, Rust, C++, SQL
 
+**Backend / Infra:** FastAPI, Node.js, NestJS, GraphQL, gRPC, Docker, Kubernetes, AWS, Cloudflare, Cloudflare Workers
+
+**AI:** LangChain, LangGraph, OpenAI, Gemini, PyTorch, RAG, AI agents, MCP, evals
+
 **Frontend:** React, Next.js, React Native, Tailwind CSS
-
-**Backend:** FastAPI, Node.js, NestJS, GraphQL, gRPC
-
-**AI:** LangChain, LangGraph, OpenAI, Gemini, CrewAI, PyTorch, RAG, agents
 
 **Data:** PostgreSQL, MongoDB, Redis, Supabase, Pinecone, Qdrant
 
-**Infra:** Docker, Kubernetes, AWS, GCP
-
 ## Open to
 
-Remote AI Engineer, Backend Engineer, Full Stack Engineer, and Founding Engineer roles.
+Remote AI Platform Engineer, Platform Engineer, and Founding Engineer roles.
