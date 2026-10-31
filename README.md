@@ -16,16 +16,15 @@ I build AI infrastructure, backend systems, and full stack apps with a focus on 
 
 - **[OpenPub](https://openpub.princslabs.workers.dev)** — Self-hosted write-once-publish-everywhere engine on Cloudflare. MCP server + REST API ships one markdown post to 8 platforms.
 - **[Shiba](https://tryshiba.dev/)** — Self-hosted AI software engineer on Cloudflare. Assign tasks, get pull requests.
-- **[JobClaw](https://github.com/princepal9120/jobclaw)** — Automated job sourcing and outreach CLI for developers.
 
 ## Open source
 
 - **[opentoolsorg/testgen](https://github.com/opentoolsorg/testgen)** — One test engine for people, CLI, and coding agents.
 - **[opentoolsorg/awesome-solo-founder-oss](https://github.com/opentoolsorg/awesome-solo-founder-oss)** — Curated OSS stack for solo founders.
-- **[princepal9120/agentdesk](https://github.com/princepal9120/agentdesk)** — Open-source white-label AI voice agent platform.
-- **[princepal9120/MacPulse](https://github.com/princepal9120/MacPulse)** — Native macOS system utility. MIT.
-- **[princepal9120/iconscan](https://github.com/princepal9120/iconscan)** — Deterministic icon audits for React/Next.js/TS apps.
-- **[princepal9120/startup-find](https://github.com/princepal9120/startup-find)** — Local-first, agent-friendly CLI for YC + a16z startup data.
+- **[opentoolsorg/voicedesk](https://github.com/opentoolsorg/voicedesk)** — Open-source white-label AI voice agent platform.
+- **[opentoolsorg/MacPulse](https://github.com/opentoolsorg/MacPulse)** — Native macOS system utility. MIT.
+- **[opentoolsorg/iconscan](https://github.com/opentoolsorg/iconscan)** — Deterministic icon audits for React/Next.js/TS apps.
+- **[opentoolsorg/startup-find](https://github.com/opentoolsorg/startup-find)** — Local-first, agent-friendly CLI for YC + a16z startup data.
 
 ## Tech stack
 
