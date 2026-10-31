@@ -26,6 +26,16 @@ I build AI infrastructure, backend systems, and full stack apps with a focus on 
 - **[iconscan](https://github.com/opentoolsorg/iconscan)** — Deterministic icon audits for React/Next.js/TS apps.
 - **[startup-find](https://github.com/opentoolsorg/startup-find)** — Local-first, agent-friendly CLI for YC + a16z startup data.
 
+## Contributions
+
+- **[Dify](https://github.com/langgenius/dify)** — test(api): strictly type service API fixtures and conversation tests | [PR #45180](https://github.com/langgenius/dify/pull/45180)
+- **[Multica](https://github.com/multica-ai/multica)** — MUL-8438 feat(sidebar): unread dot for finished agent runs | [PR #9759](https://github.com/multica-ai/multica/pull/9759)
+- **[Warp](https://github.com/warpdotdev/warp)** — Fix premature MCP protocol-version header during initialize | [PR #16698](https://github.com/warpdotdev/warp/pull/16698)
+- **[Bifrost](https://github.com/maximhq/bifrost)** — docs(mcp/oauth2): document token exchange stored sign-in default and host restrictions | [PR #9340](https://github.com/maximhq/bifrost/pull/9340)
+- **[LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)** — Restore the FLAN RTE prompt-2 task | [PR #4156](https://github.com/EleutherAI/lm-evaluation-harness/pull/4156)
+- **[Hermes Agent](https://github.com/nousresearch/hermes-agent)** — Agent infrastructure and tooling contributions
+- **[OpenCodex](https://github.com/opentoolsorg/opencodex)** — Open-source coding agent proxy and execution tooling
+
 ## Tech stack
 
 **Languages:** Python, TypeScript, JavaScript, Go, Rust, C++, SQL
