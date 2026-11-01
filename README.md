@@ -23,7 +23,7 @@ I build AI infrastructure, backend systems, and full stack apps with a focus on 
 - **[awesome-solo-founder-oss](https://github.com/opentoolsorg/awesome-solo-founder-oss)** — Curated OSS stack for solo founders.
 - **[voicedesk](https://github.com/opentoolsorg/voicedesk)** — Open-source white-label AI voice agent platform.
 - **[MacPulse](https://github.com/opentoolsorg/MacPulse)** — Native macOS system utility. MIT.
-- **[iconscan](https://github.com/opentoolsorg/iconscan)** — Deterministic icon audits for React/Next.js/TS apps.
+- **[iconscan](https://iconscan.princepal.dev/)** — Deterministic icon audits for React/Next.js/TS apps.
 - **[startup-find](https://github.com/opentoolsorg/startup-find)** — Local-first, agent-friendly CLI for YC + a16z startup data.
 
 ## Contributions
